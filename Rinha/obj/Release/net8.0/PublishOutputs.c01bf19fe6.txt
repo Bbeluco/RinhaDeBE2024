@@ -1,0 +1,17 @@
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Rinha
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/appsettings.Development.json
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/appsettings.json
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Rinha.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Rinha.runtimeconfig.json
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Rinha.pdb
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Npgsql.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/bbeluco/Documents/Programming/rinha-de-backend-2024-q1/participantes/bbeluco/Rinha/bin/Release/net8.0/publish/Rinha.deps.json
